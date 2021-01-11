@@ -15,7 +15,7 @@
 O projeto CRUD with Mongodb and AdminBro é um sistema para você gerenciar seus projetos onde o objetivo é escrever e salvar suas ideias, assim fica mais fácil gerenciá-las. Foi criado com o intuito de colocar em prática todo o conteúdo que aprendi assistindo alguns Videos. 
 
 
-<h3>🖥 Tecnologias ultilizadas</h3>
+<h3>🖥 Tecnologias utilizadas</h3>
 
 - javaScript
 - AdminBro
